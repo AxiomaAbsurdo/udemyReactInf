@@ -1,0 +1,19 @@
+{
+  "name": "udemyreactinf",
+  "version": "1.0.0",
+  "description": "Udemy react samples from Udemy course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxiomaAbsurdo/udemyReactInf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AxiomaAbsurdo/udemyReactInf/issues"
+  },
+  "homepage": "https://github.com/AxiomaAbsurdo/udemyReactInf#readme"
+}
